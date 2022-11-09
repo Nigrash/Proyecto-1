@@ -1,5 +1,5 @@
 # Proyecto-1-STIO-WEB-COMPLETO
 Pagina WEB HTML5/CSS
 
-Este Reposiorio contiene el codigo fuente de la elaboracion completa de un Sitio Web de una empresa que vende inmuebles en España, este mismo esta Elaborado
-con los Lenguajes de Diseño HTML 5 y CSS
+Este reposiorio contiene el código fuente de la elaboracion completa de un sitio web de una empresa que vende inmuebles en España, este mismo esta elaborado
+con los lenguajes de diseño HTML 5 y CSS
